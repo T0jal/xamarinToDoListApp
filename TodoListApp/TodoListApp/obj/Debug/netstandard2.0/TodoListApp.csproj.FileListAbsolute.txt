@@ -1,0 +1,14 @@
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\bin\Debug\netstandard2.0\TodoListApp.deps.json
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\bin\Debug\netstandard2.0\TodoListApp.dll
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\bin\Debug\netstandard2.0\ref\TodoListApp.dll
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\bin\Debug\netstandard2.0\TodoListApp.pdb
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.csprojAssemblyReference.cache
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.AssemblyInfoInputs.cache
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.AssemblyInfo.cs
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.dll
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\ref\TodoListApp.dll
+C:\Users\Tojal\source\repos\xamarin\TodoListApp\TodoListApp\TodoListApp\obj\Debug\netstandard2.0\TodoListApp.pdb
